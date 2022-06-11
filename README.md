@@ -1,4 +1,4 @@
-![license](https://img.shields.io/github/license/eedeidk/JioSaavn-Downloader)
+![license](https://img.shields.io/github/license/eedeidk/JioSaavn-Downloader) ![contrib](https://img.shields.io/github/contributors-anon/eedeidk/JioSaavn-downloader)
 
 # Saavn Downloader
 ![screengrab](https://github.com/eedeidk/JioSaavn-Downloader/blob/master/gallery/1test_grab.png)
