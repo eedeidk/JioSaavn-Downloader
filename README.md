@@ -1,12 +1,15 @@
-![Python application](https://github.com/monuyadav016/Saavn-Downloader/workflows/Python%20application/badge.svg)
+![license](https://img.shields.io/github/license/eedeidk/JioSaavn-Downloader)
 
 # Saavn Downloader
+![screengrab](https://github.com/eedeidk/JioSaavn-Downloader/blob/master/gallery/1test_grab.png)
+
 The fullset of functionality offered are:
   - High Qualtiy - M4A (320 Kbps bitrate)
   - Songs with metadata
   - Download Individual Song
   - Download PlayList
   - Download Album
+  - Choose songs when downloading Album or Playlist or Artists
   - Download all Albums of an Artist as Albums
   - Download all Songs of an Artist as Songs
   - Download Entire PlayList from user profile
@@ -28,7 +31,7 @@ $ pip install -r requirements.txt
 #### Download Song, Playlist, Album from Web URL
 ```sh
 $ python download_reloaded.py
-$ Paste the URL: https://www.jiosaavn.com/album/tum-hi-aana-from-marjaavaan/j9bfphC2728_
+$ Paste the URL: https://www.jiosaavn.com/album/pushpa---the-rise/Jjd9D880hsg_
 ```
 
 #### You can also specify the url in the with -u or --url argument directly
@@ -132,6 +135,7 @@ Want to contribute? Great!
   - Arun ( Discovering Vulnerability in Saavn App )
   - [prabaprakash](https://github.com/prabaprakash/)
   - [monuyadav016](https://github.com/monuyadav016)
+  - [eedeidk](https://github.com/eedeidk)
 
 
 ## License
